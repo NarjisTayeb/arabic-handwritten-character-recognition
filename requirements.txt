@@ -1,0 +1,12 @@
+tensorflow
+keras-tuner
+visualkeras
+Pillow
+matplotlib
+numpy
+pandas
+scikit-learn
+scipy
+seaborn
+jupyter
+notebook
